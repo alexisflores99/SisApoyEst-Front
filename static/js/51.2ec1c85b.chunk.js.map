@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/alumno/notas/Notas.js"],"names":["Notas"],"mappings":"8KAAA,wBAUeA,UARf,WACI,OACI","file":"static/js/51.2ec1c85b.chunk.js","sourcesContent":["import React from 'react'\n\nfunction Notas() {\n    return (\n        <div>\n            Notas\n        </div>\n    )\n}\n\nexport default Notas\n"],"sourceRoot":""}
